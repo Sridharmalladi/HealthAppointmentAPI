@@ -88,4 +88,3 @@ This project is under active development. The current version includes basic app
 
 ---
 
-*For more information, please contact the project maintainers.*
